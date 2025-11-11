@@ -1,4 +1,4 @@
-name: Validate Synthetic Data Script #cpot
+name: Validate Synthetic Data Script 
 
 on: [push,pull_request]
     
