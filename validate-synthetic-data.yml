@@ -1,4 +1,4 @@
-name: Validate Synthetic Data Script 
+name: Validate Synthetic Data Script #commit
 
 on: [push,pull_request]
     
